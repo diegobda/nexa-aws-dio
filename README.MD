@@ -125,4 +125,4 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` pa
 ## 📞 Contato
 Diego dos Santos Gonçalves  
 ✉️ E-mail: [diegodba9@gmail.com](mailto:diegodba9@gmail.com)  
-💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/diegolinkedin/details/certifications/l/)
+💼 LinkedIn: [Perfil](https://www.linkedin.com/in/diegolinkedin/details/certifications/l/)
